@@ -2,7 +2,7 @@
 
 Algoritmo
 
-Criei um código que computa quantos votos cada partido teve em uma eleição
+Criei um código que computa quantos votos cada partido teve em uma eleição e por fim mostra o total de votos de cada partido na tela
 
 Início
 
