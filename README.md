@@ -1,8 +1,8 @@
 # Ac2Votos
 
-Algoritmo.
+Algoritmo
 
-Criei um código que computa quantos votos cada partido teve em uma eleição.
+Criei um código que computa quantos votos cada partido teve em uma eleição
 
 Início
 
@@ -12,13 +12,13 @@ Existe eleitor?
 
 faça
 
-Ler qual partido o eleitor votou.
+Ler qual partido o eleitor votou
 
-Acumular o voto do eleitor no respectivo partido.
+Acumular o voto do eleitor no respectivo partido
 
 Fim enquanto
 
-Exibir total de votos de cada partido.
+Exibir total de votos de cada partido
 
 fim
 
